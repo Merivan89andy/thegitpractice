@@ -1,6 +1,6 @@
 public class gitPractice {
     public static void main(String[] args) {
-        String str = "Kira";
+        String str = "new local something ";
 
     }
 }
